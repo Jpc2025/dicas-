@@ -1,2 +1,2 @@
-# dicas
+# Dicas
 Dicas sobre Programação 
